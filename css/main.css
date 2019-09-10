@@ -1,0 +1,85 @@
+/*
+================
+	fonts	
+================
+*/
+body{
+	font-family: "Lucida Grande", sans-serif;
+}
+h1{
+	font-size: 64px;
+	text-align: center;
+}
+h2{
+	font-size: 32px;
+	text-shadow: 4px 4px 2px black;
+}
+p{
+	font-size: 16px;
+	padding-top: 15px;
+}
+h1,h2,p{
+	color:white;
+}
+
+/*
+================
+	header
+================
+*/
+header{
+	text-align: center;
+	background-color: black;
+}
+img{
+	display: block;
+	width: 550px;
+	margin: 0 auto;
+	align-content: center;
+}
+
+
+/*
+================
+	divs
+================
+*/
+div{
+	min-height: 100px;
+	padding: 30px;
+}
+#intro{
+	background-color: black;
+}
+#red{
+	text-align: right;
+	background-color: red;
+}
+#blue{
+	background-color: blue;
+}
+#yellow{
+	text-align: right;
+	background-color: yellow;
+}
+#yellow h2{
+	color: black;
+	text-shadow: 4px 4px 2px grey;
+}
+#yellow p{
+	color: black;
+}
+#green{
+	background-color: green;
+}
+/*
+================
+	footer
+================
+*/
+
+footer{
+	padding-bottom: 15px;
+	text-align: center;
+	background-color: black;
+}
